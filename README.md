@@ -8,7 +8,7 @@
 * The script is highly optimized,
 * Resistant to cheating or abuse attempts by the player,
 * Allows full customization:
-  [![config.lua](https://i.imgur.com/SQlEg7v.png)]
+  [config.lua](https://i.imgur.com/SQlEg7v.png)
 
 ## Requirements for ESX:
 [OPTIONAL] - Add 'magic_shoes' item in database
